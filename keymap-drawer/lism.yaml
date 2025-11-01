@@ -136,9 +136,9 @@ layers:
   - )
   - ''
   - '~'
-  - '!'
-  - '@'
-  - '#'
+  - '&mkp MB4'
+  - '&mkp MB3'
+  - '&mkp MB5'
   - $
   - '&emoji'
   - F5
@@ -146,9 +146,9 @@ layers:
   - ']'
   - ''
   - '`'
-  - _
-  - ''''
-  - '"'
+  - '&mkp MB1'
+  - UP ARROW
+  - '&mkp MB2'
   - \
   - KP NUMLOCK
   - F11
@@ -156,9 +156,9 @@ layers:
   - '}'
   - ''
   - '|'
-  - '0'
-  - '2'
-  - '&'
+  - ←
+  - DOWN ARROW
+  - →
   - '*'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
