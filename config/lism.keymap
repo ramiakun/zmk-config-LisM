@@ -51,10 +51,10 @@
         default_layer {
             display-name = "Default Layer";
             bindings = <
-&kp Q             &kp W         &kp E         &kp R       &kp T                                              &kp Y            &kp U       &kp I         &kp O       &kp P
-&mt TAB A         &mt LALT S    &mt LSHIFT D  &mt LGUI F  &mt LCTRL G                                        &mt RCTRL H      &mt RGUI J  &mt RSHIFT K  &mt RALT L  &mt SQT SEMICOLON
-&mt LEFT_SHIFT Z  &mt Z X       &kp C         &kp V       &kp B                                              &kp N            &kp M       &kp COMMA     &kp DOT     &mt NON_US_BACKSLASH SLASH
-&kp LEFT_SHIFT    &kp LEFT_WIN  &kp LEFT_ALT  &none       &lt 1 SPACE  &lt 2 LANGUAGE_1    &lt 3 LANGUAGE_2  &lt 4 BACKSPACE  &none       &kp F7        &kp F10     &lt 4 F12
+&kp Q             &kp W           &kp E         &kp R       &kp T                                              &kp Y            &kp U       &kp I         &kp O           &kp P
+&mt TAB A         &mt LALT S      &mt LSHIFT D  &mt LGUI F  &mt LCTRL G                                        &mt RCTRL H      &mt RGUI J  &mt RSHIFT K  &mt RALT L      &mt SQT SEMICOLON
+&mt LEFT_SHIFT Z  &mt Z X         &kp C         &kp V       &kp B                                              &kp N            &kp M       &kp COMMA     &kp DOT         &mt NON_US_BACKSLASH SLASH
+&kp LEFT_SHIFT    &lt 5 LEFT_WIN  &kp LEFT_ALT  &none       &lt 1 SPACE  &lt 2 LANGUAGE_1    &lt 3 LANGUAGE_2  &lt 4 BACKSPACE  &none       &kp CAPSLOCK  &lt 5 LEFT_WIN  &lt 4 F12
             >;
 
             sensor-bindings = <&encoder_msc SCRL_DOWN SCRL_UP>;
