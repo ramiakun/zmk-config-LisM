@@ -86,10 +86,10 @@
         layer_3 {
             display-name = "Mark Layer";
             bindings = <
-&kp LS(LG(N4))  &kp F4   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &none                        &kp TILDE  &mkp MB4  &mkp MB3        &mkp MB5   &kp DOLLAR
-&emoji          &kp F5   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &none                        &kp GRAVE  &mkp MB1  &kp UP_ARROW    &mkp MB2   &kp BACKSLASH
-&kp KP_NUMLOCK  &kp F11  &kp LEFT_BRACE        &kp RIGHT_BRACE        &none                        &kp PIPE   &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &kp ASTERISK
-&trans          &trans   &kp NUMBER_0          &trans                 &kp SPACE  &trans    &trans  &kp ENTER  &trans    &none           &none      &kp F12
+&trans  &trans  &trans  &trans  &trans                    &trans  &mkp MB4  &mkp MB3        &mkp MB5   &trans
+&trans  &trans  &trans  &trans  &trans                    &trans  &mkp MB1  &kp UP_ARROW    &mkp MB2   &trans
+&trans  &trans  &trans  &trans  &trans                    &trans  &kp LEFT  &kp DOWN_ARROW  &kp RIGHT  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans    &trans          &trans     &trans
             >;
         };
 
