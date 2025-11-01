@@ -87,48 +87,48 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   Number Layer:
-  - {t: ▽, type: trans}
-  - '7'
-  - '8'
-  - '9'
-  - '='
-  - F1
-  - F2
-  - F7
-  - F10
-  - RSHIFT
-  - '*'
-  - {t: '4', h: LALT}
-  - {t: '5', h: LSHIFT}
-  - {t: '6', h: LGUI}
-  - {t: '-', h: LCTRL}
-  - '&mkp MB1'
-  - ←
-  - ↑
-  - →
-  - RGUI
-  - /
-  - '1'
-  - '2'
-  - '3'
-  - +
-  - '&mkp MB2'
-  - ''
-  - ↓
-  - ''
-  - RALT
-  - {t: ▽, type: trans}
-  - .
-  - '0'
-  - {t: ▽, type: trans}
-  - LANG2
-  - {type: held}
-  - {t: ▽, type: trans}
-  - LANG1
-  - {t: ▽, type: trans}
   - Sft+Ctl+TAB
   - Ctl+TAB
-  - F12
+  - UP ARROW
+  - '&mkp LCLK'
+  - '['
+  - ']'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - TAB
+  - ←
+  - ↓
+  - RIGHT ARROW
+  - (
+  - )
+  - LESS THAN
+  - GREATER THAN
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT SHIFT
+  - '&mkp MB4'
+  - '&mkp MB3'
+  - '&mkp MB5'
+  - '{'
+  - '}'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Mark Layer:
   - Sft+Gui+4
   - F4
