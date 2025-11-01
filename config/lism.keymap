@@ -117,10 +117,10 @@
         layer_6 {
             display-name = "Brank Layer";
             bindings = <
-&mt ESCAPE Q      &kp L           &kp E             &mt PERIOD COMMA  &mt SEMICOLON MINUS                    &kp F   &kp R   &kp W   &kp Y   &kp P
-&mt TAB A         &mt LEFT_ALT I  &mt LEFT_SHIFT U  &mt LEFT_WIN O    &mt RCTRL SQT                          &kp K   &kp T   &kp N   &kp S   &kp H
-&mt LEFT_SHIFT Z  &kp X           &kp C             &kp V             &kp B                                  &kp G   &kp D   &kp M   &kp J   &kp B
-&kp LCTRL         &trans          &trans            &trans            &trans               &trans    &trans  &trans  &trans  &trans  &trans  &trans
+&mt ESCAPE Q      &kp L           &kp E             &mt PERIOD COMMA  &mt EQUAL MINUS                    &kp F   &kp R   &kp W   &kp Y   &kp P
+&mt TAB A         &mt LEFT_ALT I  &mt LEFT_SHIFT U  &mt LEFT_WIN O    &mt RCTRL SQT                      &kp K   &kp T   &kp N   &kp S   &kp H
+&mt LEFT_SHIFT Z  &kp X           &kp C             &kp V             &kp SEMICOLON                      &kp G   &kp D   &kp M   &kp J   &kp B
+&kp LCTRL         &trans          &trans            &trans            &trans           &trans    &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
