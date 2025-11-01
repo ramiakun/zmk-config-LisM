@@ -32,7 +32,7 @@ layers:
   - .
   - {t: /, h: NON US BACKSLASH}
   - LEFT SHIFT
-  - LEFT WIN
+  - {t: LEFT WIN, h: Brank Layer}
   - LEFT ALT
   - ''
   - {t: SPACE, h: Mouse Layer}
@@ -40,8 +40,8 @@ layers:
   - {t: LANGUAGE 2, h: Mark Layer}
   - {t: BS, h: Device Layer}
   - ''
-  - F7
-  - F10
+  - CAPSLOCK
+  - {t: LEFT WIN, h: Brank Layer}
   - {t: F12, h: Device Layer}
   Mouse Layer:
   - '!'
@@ -247,7 +247,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
