@@ -130,48 +130,48 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   Mark Layer:
-  - Sft+Gui+4
-  - F4
-  - (
-  - )
-  - ''
-  - '~'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '&mkp MB4'
   - '&mkp MB3'
   - '&mkp MB5'
-  - $
-  - '&emoji'
-  - F5
-  - '['
-  - ']'
-  - ''
-  - '`'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '&mkp MB1'
   - UP ARROW
   - '&mkp MB2'
-  - \
-  - KP NUMLOCK
-  - F11
-  - '{'
-  - '}'
-  - ''
-  - '|'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - ←
   - DOWN ARROW
   - →
-  - '*'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '0'
   - {t: ▽, type: trans}
-  - SPACE
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - ENTER
   - {t: ▽, type: trans}
-  - ''
-  - ''
-  - F12
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Device Layer:
   - F1
   - F2
