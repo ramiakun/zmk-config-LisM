@@ -31,7 +31,7 @@ layers:
   - ','
   - .
   - {t: /, h: NON US BACKSLASH}
-  - LEFT SHIFT
+  - LCTRL
   - {t: LEFT WIN, h: Brank Layer}
   - LEFT ALT
   - ''
@@ -58,7 +58,7 @@ layers:
   - ^
   - '&'
   - '*'
-  - (
+  - '&mkp LCLK'
   - BS
   - LEFT ARROW
   - ↓
@@ -68,7 +68,7 @@ layers:
   - '`'
   - /
   - NON US BACKSLASH
-  - )
+  - {t: (, h: )}
   - DEL
   - PAGE UP
   - INSERT
