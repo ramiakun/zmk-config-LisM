@@ -339,10 +339,12 @@ path.combo { stroke: #7f7f7f; }
 </a></g>
 <g transform="translate(700, 196)" class="key keypos-41">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">F12</text>
-<a href="#Device-Layer">
-<text x="0" y="24" class="key hold layer-activator"><tspan style="font-size: 64%">Device Lay…</tspan></text>
-</a></g>
+<a href="#Brank-Layer">
+<text x="0" y="0" class="key tap layer-activator">
+<tspan x="0" dy="-0.9em">Brank</tspan><tspan x="0" dy="1.2em">Layer</tspan>
+</text>
+</a><text x="0" y="24" class="key hold">toggle</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-Mouse Layer">

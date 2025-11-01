@@ -42,7 +42,7 @@ layers:
   - ''
   - CAPSLOCK
   - {t: LEFT WIN, h: Brank Layer}
-  - {t: F12, h: Device Layer}
+  - {t: Brank Layer, h: toggle}
   Mouse Layer:
   - '!'
   - '@'
