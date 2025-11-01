@@ -22,7 +22,7 @@ layers:
   - {t: L, h: RALT}
   - {t: ;, h: SQT}
   - {t: Z, h: LEFT SHIFT}
-  - {t: X, h: Z}
+  - X
   - C
   - V
   - B
