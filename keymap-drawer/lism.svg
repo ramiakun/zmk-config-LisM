@@ -326,7 +326,11 @@ path.combo { stroke: #7f7f7f; }
 </g>
 <g transform="translate(588, 196)" class="key keypos-39">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+<a href="#Brank-Layer">
+<text x="0" y="0" class="key tap layer-activator">
+<tspan x="0" dy="-0.9em">Brank</tspan><tspan x="0" dy="1.2em">Layer</tspan>
+</text>
+</a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(644, 196)" class="key keypos-40">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -338,11 +342,7 @@ path.combo { stroke: #7f7f7f; }
 </a></g>
 <g transform="translate(700, 196)" class="key keypos-41">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#Brank-Layer">
-<text x="0" y="0" class="key tap layer-activator">
-<tspan x="0" dy="-0.9em">Brank</tspan><tspan x="0" dy="1.2em">Layer</tspan>
-</text>
-</a><text x="0" y="24" class="key hold">toggle</text>
+<text x="0" y="0" class="key tap">CAPS</text>
 </g>
 </g>
 </g>

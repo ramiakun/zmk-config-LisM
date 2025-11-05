@@ -40,9 +40,9 @@ layers:
   - {t: LANGUAGE 2, h: Mark Layer}
   - {t: BS, h: Device Layer}
   - ''
-  - CAPSLOCK
-  - {t: LEFT WIN, h: Brank Layer}
   - {t: Brank Layer, h: toggle}
+  - {t: LEFT WIN, h: Brank Layer}
+  - CAPS
   Mouse Layer:
   - '!'
   - '@'
