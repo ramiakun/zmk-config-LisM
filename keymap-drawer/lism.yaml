@@ -35,10 +35,10 @@ layers:
   - {t: LEFT WIN, h: Brank Layer}
   - LEFT ALT
   - ''
-  - {t: SPACE, h: Mouse Layer}
-  - {t: LANGUAGE 1, h: Number Layer}
-  - {t: LANGUAGE 2, h: Mark Layer}
-  - {t: BS, h: Device Layer}
+  - {t: LANGUAGE 1, h: Mouse Layer}
+  - {t: SPACE, h: Number Layer}
+  - {t: BS, h: Mark Layer}
+  - {t: LANGUAGE 2, h: Device Layer}
   - ''
   - {t: Brank Layer, h: toggle}
   - {t: LEFT WIN, h: Brank Layer}
