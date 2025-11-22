@@ -20,7 +20,7 @@ layers:
   - {t: J, h: RGUI}
   - {t: K, h: RSHIFT}
   - {t: L, h: RALT}
-  - {t: ;, h: SQT}
+  - {t: SQT, h: ;}
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -135,11 +135,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+Ctl+TAB
   - '&mkp MB4'
   - '&mkp MB3'
   - '&mkp MB5'
-  - {t: ▽, type: trans}
+  - Sft+TAB
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
