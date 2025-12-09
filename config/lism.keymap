@@ -75,10 +75,10 @@
         layer_2 {
             display-name = "Number Layer";
             bindings = <
-&kp LS(LC(TAB))  &kp LC(TAB)  &kp UP_ARROW  &mkp LCLK        &kp LEFT_BRACKET                        &kp RIGHT_BRACKET      &trans         &trans            &trans  &trans
-&kp TAB          &kp LEFT     &kp DOWN      &kp RIGHT_ARROW  &kp LEFT_PARENTHESIS                    &kp RIGHT_PARENTHESIS  &kp LESS_THAN  &kp GREATER_THAN  &trans  &trans
-&kp LEFT_SHIFT   &mkp MB4     &mkp MB3      &mkp MB5         &kp LEFT_BRACE                          &kp RIGHT_BRACE        &trans         &trans            &trans  &trans
-&trans           &trans       &trans        &trans           &trans                &trans    &trans  &trans                 &trans         &trans            &trans  &trans
+&kp LS(LC(TAB))  &kp LC(TAB)  &kp UP_ARROW  &mkp LCLK        &kp LEFT_BRACKET                                &kp RIGHT_BRACKET      &trans         &trans            &trans  &trans
+&kp TAB          &kp LEFT     &kp DOWN      &kp RIGHT_ARROW  &kp LEFT_PARENTHESIS                            &kp RIGHT_PARENTHESIS  &kp LESS_THAN  &kp GREATER_THAN  &trans  &trans
+&kp LEFT_SHIFT   &mkp MB4     &mkp MB3      &mkp MB5         &kp LEFT_BRACE                                  &kp RIGHT_BRACE        &trans         &trans            &trans  &trans
+&trans           &trans       &trans        &trans           &trans                &trans    &kp LANGUAGE_1  &kp LANGUAGE_2         &trans         &trans            &trans  &trans
             >;
 
             sensor-bindings = <&encoder_kp C_VOL_UP C_VOL_DN>;
